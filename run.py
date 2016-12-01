@@ -71,7 +71,8 @@ def main(wf):
         notebooks_list.remove("Trash")
     except:
         pass
-    notebooks_list = ["Inbox", "Recents", "Trash"] + notebooks_list
+    #notebooks_list = ["Inbox", "Recents", "Trash"] + notebooks_list
+    notebooks_list = ["Recents", "Trash"] + notebooks_list
     taglist = [x["tag"] for x in tagset]
     ttaglist = ["#" + x for x in taglist]
     targ = "#" + args
