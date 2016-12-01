@@ -2,7 +2,9 @@
 
 Search Quiver from Alfred! `Quiver-alfred` quickly constructs a database of your notes for fast and easy querying.
 
-### [Download](https://github.com/danielecook/Quiver-alfred/releases/download/0.2/Quiver.Search.alfredworkflow)
+*IMPORTANT: in this fork, inbox entry has been deactivated. It caused an error when empty*
+
+### [Download](https://github.com/valba8/Quiver-alfred/releases/download/0.2/Quiver.Search.alfredworkflow)
 
 ## Usage
 
